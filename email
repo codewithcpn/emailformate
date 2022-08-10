@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+</head>
+
+<body style="background:#eee;margin:auto;display:block">
+    <table border="0" cellspacing="0" cellpadding="0"
+        style="width:100%;background:#fff;max-width:650px;border-radius:4px;margin:2rem auto;padding:2rem">
+        <tr>
+            <td colspan="2"
+                style="padding:0 15px;width:100%;font-size:24px;font-weight:600;color:#feba47;text-align:center">
+                Professional Book House</td>
+        </tr>
+        <tr>
+            <td colspan="2" style="padding:0 15px 15px;text-align:center"><a href="https://professionalbooks.in/"
+                    target="_blank">www.professional.in</a></td>
+        </tr>
+        <tr>
+            <td colspan="2" style="padding:0 15px 5px;width:100%;font-size:18px;font-weight:600;color:#feba47">Order
+                Information</td>
+        </tr>
+        <tr>
+            <td colspan="2" style="padding:0 15px;">Billing & Shipping Details</td>
+        </tr>
+        <tr>
+            <td style="width:50%;padding:0px 15px">
+                <h4 style="margin:2rem 0 10px">Billing Details</h4>
+                <p style="margin:0 0 5px">Sandeep Paswan,</p>
+                <p style="margin:0 0 5px">F-10, B-16, Main Matiala Road, Nawada Metro Station, Uttam Nagar, New Delhi
+                    110059</p>
+                <p style="margin:0 0 5px"><strong>Email:</strong> codewithcpn@gmail.com</p>
+                <p style="margin:0 0 5px"><strong>Phone:</strong> 9898787678</p>
+                <p style="margin:0"><strong>Payment Method:</strong> Offline</p>
+            </td>
+            <td style="width:50%;padding:0px 15px">
+                <h4 style="margin:2rem 0 10px">Shipping Details</h4>
+                <p style="margin:0 0 5px">CPN Prajapati,</p>
+                <p style="margin:0">F-10, B-16, Main Matiala Road, Nawada Metro Station, Uttam Nagar, New Delhi 110059
+                </p>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2" style="padding:0px 15px">
+                <table style="width:100%;margin:2rem 0;text-align:left;border-color:#fefefe" border="1" cellspacing="0"
+                    cellpadding="10">
+                    <thead>
+                        <tr>
+                            <th>Item</th>
+                            <th>Price</th>
+                            <th>Qty</th>
+                            <th>Total</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Encyclopaedia Of Important Central Acts & Rules In 32 Volumes (Deluxe Binding With Free
+                                CD) 2016 Edition With 2019 And 2020 Supplement Total 34 Volumes 2021 Reprint</td>
+                            <td>1300.00</td>
+                            <td>2</td>
+                            <td>2600.00</td>
+                        </tr>
+                        <tr>
+                            <td>Encyclopaedia Of Important Central Acts & Rules In 32 Volumes (Deluxe Binding With Free
+                                CD) 2016 Edition With 2019 And 2020 Supplement Total 34 Volumes 2021 Reprint</td>
+                            <td>1300.00</td>
+                            <td>2</td>
+                            <td>2600.00</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"></td>
+                            <td>Sub Total</td>
+                            <td>Rs.5700.00</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"></td>
+                            <td style="min-width:80px">Grand Total</td>
+                            <td>Rs.5700.00</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+    </table>
+</body>
+
+</html>
